@@ -168,12 +168,6 @@
   https://github.com/electron/electron  
   跨平台桌面应用框架，基于Chromium和Node.js，拥有115k⭐️。
 
-## Slack
-
-- **Slate**  
-  https://github.com/slatedocs/slate  
-  可定制API文档生成工具，拥有27k⭐️。
-
 ---
 
 如果需要，我可以帮你写具体项目的详细介绍或者补充更多公司项目。
