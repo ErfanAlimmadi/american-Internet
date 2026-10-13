@@ -12,7 +12,7 @@
 | Netflix   | https://github.com/Netflix       | 
 | Apple     | https://github.com/apple         |
 | Airbnb    | https://github.com/airbnb        | 
-| Twitter   | https://github.com/twitter       | 
+| X (Twitter) | https://github.com/xai-org     | 
 | LinkedIn  | https://github.com/linkedin      | 
 | Uber      | https://github.com/uber          | 
 | Dropbox   | https://github.com/dropbox       | 
@@ -20,7 +20,7 @@
 | GitHub    | https://github.com/electron      | 
 | Slack     | https://github.com/slatedocs     |
 | Pinterest | https://github.com/pinterest     | 
-| Twitter   | https://github.com/twitter       | 
+| X (Twitter) | https://github.com/xai-org     | 
 | Mozilla   | https://github.com/mozilla       | 
 | Netflix   | https://github.com/Netflix       | 
 | Facebook  | https://github.com/facebook      | 
@@ -116,7 +116,7 @@
   https://github.com/airbnb/lottie-web  
   移动端和网页动画渲染库，支持JSON格式动画，拥有27k⭐️。
 
-## Twitter
+## X (formerly Twitter)
 
 - **Bootstrap**  
   https://github.com/twbs/bootstrap  
