@@ -17,7 +17,7 @@
 | Uber      | https://github.com/uber          | 
 | Dropbox   | https://github.com/dropbox       | 
 | Salesforce| https://github.com/salesforce    | 
-| GitHub    | https://github.com/electron      | 
+| GitHub    | https://github.com/github        | 
 | Slack     | https://github.com/slatedocs     |
 | Pinterest | https://github.com/pinterest     | 
 | Twitter   | https://github.com/twitter       | 
